@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>0d668322-c9f6-4501-92d6-ade6c51cd564</m_GUID>
+    <m_MaleModel>Skinned\Clothes\SSP100Helm</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\SSP100Helm</m_FemaleModel>
+    <textureChoices>Clothes\SSP100\SSP100Helm</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>nobeard</m_HatCategory>
+	<m_HatCategory>nohair</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+</clothingItem>

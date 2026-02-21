@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\TacticalRadioBackpack</m_MaleModel>
+	<m_MaleModel>skinned\clothes\TacticalRadioBackpack</m_MaleModel>
+	<m_GUID>7c14ca5a-8485-476b-9d2b-675fb2bbd7e0</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\backpacks\TacticalRadioBackpackDuty</textureChoices>
+</clothingItem>

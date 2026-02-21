@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>46726f3f-1e8c-4321-9405-ce349a024784</m_GUID>
+	<m_MaleModel>Skinned\Clothes\TrackPants</m_MaleModel>
+	<m_FemaleModel>Skinned\Clothes\TrackPants</m_FemaleModel>
+	<textureChoices>Clothes\Track\TrackPantsRed</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_Masks>2</m_Masks>
+	<m_Masks>9</m_Masks>
+	<m_Masks>7</m_Masks>
+</clothingItem>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\SSP100Backpack</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\SSP100Backpack</m_FemaleModel>
+	<m_GUID>5cf8bd82-7a98-4154-8084-0932ec110b5c</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>Clothes\SSP100\SSP100Backpack</textureChoices>
+</clothingItem>

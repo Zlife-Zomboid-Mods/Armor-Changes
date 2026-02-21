@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>6d55f454-af25-4256-b433-379238488ca0</m_GUID>
+    <m_MaleModel>Skinned\Clothes\LCPants</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\LCPants</m_FemaleModel>
+    <textureChoices>Clothes\UNISG\UNISGLCPants</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_Masks>14</m_Masks>
+	<m_Masks>15</m_Masks>
+	<m_Masks>7</m_Masks>
+	<m_Masks>9</m_Masks>
+</clothingItem>

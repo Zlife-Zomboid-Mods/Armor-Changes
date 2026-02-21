@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>4e3701a7-669f-4d67-b275-0bd0caa06a91</m_GUID>
+    <m_MaleModel>Skinned\Clothes\TrackJacket</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\TrackJacket</m_FemaleModel>
+    <textureChoices>Clothes\Track\TrackJacketBlue</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>Group03</m_HatCategory>
+	<m_HatCategory>nohair</m_HatCategory>
+</clothingItem>

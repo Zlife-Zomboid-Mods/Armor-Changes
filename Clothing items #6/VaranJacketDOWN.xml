@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>fbe777a3-2088-46d4-a8df-f01d8a1f44c1</m_GUID>
+    <m_MaleModel>Skinned\Clothes\VaranJacketDOWN</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\VaranJacketDOWN</m_FemaleModel>
+    <textureChoices>Clothes\Varan\VaranJacket</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+</clothingItem>
