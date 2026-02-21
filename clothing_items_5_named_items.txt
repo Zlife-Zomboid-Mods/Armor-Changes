@@ -1,0 +1,112 @@
+Clothing Items #5 - Named Items
+========================================
+
+Total items: 90
+
+Item Name (ID)                           | Display Name
+--------------------------------------------------------------------------------
+skat9jacketcs                            | CS-4b Jacket
+skat9pantscs                             | CS-4b Trousers
+skat9vestcs                              | CS-4b Vest
+skat9jacketfreedom                       | Liberated Skat-9 Jacket
+skat9pantsfreedom                        | Liberated Skat-9 Trousers
+skat9vestfreedom                         | Liberated Skat-9 Vest
+skat9jacketduty                          | PSZ-9kl Jacket
+skat9pantsduty                           | PSZ-9kl Trousers
+skat9vestduty                            | PSZ-9kl Vest
+SEVAShirt                                | SEVA Jacket
+SEVAPants                                | SEVA Trousers
+SEVAVest                                 | SEVA Vest
+skat9jacketmercs                         | Skat-9 Jacket (Mercenaries)
+skat9jacketmilitary                      | Skat-9 Jacket (Military)
+skat9jacketmonolith                      | Skat-9 Jacket (Monolith)
+skat9pantsmercs                          | Skat-9 Trousers (Mercenaries)
+skat9pantsmilitary                       | Skat-9 Trousers (Military)
+skat9pantsmonolith                       | Skat-9 Trousers (Monolith)
+skat9vestmercs                           | Skat-9 Vest (Mercenaries)
+skat9vestmilitary                        | Skat-9 Vest (Military)
+skat9vestmonolith                        | Skat-9 Vest (Monolith)
+SovietPMG                                | Soviet PMG Gas Mask
+SovietPMGNoFilter                        | Soviet PMG Gas Mask (No Filter)
+Sphere08HelmetMilitary                   | Sphere 08 Helmet
+Sphere08GlassCS                          | Sphere 08 Helmet (Clear Sky)
+Sphere08HelmetCS                         | Sphere 08 Helmet (Clear Sky)
+Sphere08MaskCS                           | Sphere 08 Helmet (Clear Sky)
+Sphere08HelmetCSNoFilter                 | Sphere 08 Helmet (Clear Sky) (No Filter)
+Sphere08GlassDuty                        | Sphere 08 Helmet (Duty)
+Sphere08HelmetDuty                       | Sphere 08 Helmet (Duty)
+Sphere08MaskDuty                         | Sphere 08 Helmet (Duty)
+Sphere08HelmetDutyNoFilter               | Sphere 08 Helmet (Duty) (No Filter)
+Sphere08GlassFreedom                     | Sphere 08 Helmet (Freedom)
+Sphere08HelmetFreedom                    | Sphere 08 Helmet (Freedom)
+Sphere08MaskFreedom                      | Sphere 08 Helmet (Freedom)
+Sphere08HelmetFreedomNoFilter            | Sphere 08 Helmet (Freedom) (No Filter)
+Sphere08GlassMercs                       | Sphere 08 Helmet (Mercenaries)
+Sphere08HelmetMercs                      | Sphere 08 Helmet (Mercenaries)
+Sphere08MaskMercs                        | Sphere 08 Helmet (Mercenaries)
+Sphere08GlassMilitary                    | Sphere 08 Helmet (Military)
+Sphere08MaskMilitary                     | Sphere 08 Helmet (Military)
+Sphere08GlassMonolith                    | Sphere 08 Helmet (Monolith)
+Sphere08HelmetMonolith                   | Sphere 08 Helmet (Monolith)
+Sphere08MaskMonolith                     | Sphere 08 Helmet (Monolith)
+Sphere08HelmetMonolithNoFilter           | Sphere 08 Helmet (Monolith) (No Filter)
+Sphere08HelmetMilitaryNoFilter           | Sphere 08 Helmet (No Filter)
+SphereM12Helmet                          | Sphere M12 Helmet
+SphereM12HelmetCS                        | Sphere M12 Helmet (Clear Sky)
+SphereM12HelmetCSNoFilter                | Sphere M12 Helmet (Clear Sky) (No Filter)
+SphereM12HelmetDuty                      | Sphere M12 Helmet (Duty)
+SphereM12HelmetDutyNoFilter              | Sphere M12 Helmet (Duty) (No Filter)
+SphereM12HelmetFreedom                   | Sphere M12 Helmet (Freedom)
+SphereM12HelmetFreedomNoFilter           | Sphere M12 Helmet (Freedom) (No Filter)
+SphereM12HelmetMercs                     | Sphere M12 Helmet (Mercenaries)
+SphereM12HelmetMonolith                  | Sphere M12 Helmet (Monolith)
+SphereM12HelmetMonolithNoFilter          | Sphere M12 Helmet (Monolith) (No Filter)
+SphereM12HelmetNoFilter                  | Sphere M12 Helmet (No Filter)
+ssp9bluehelm                             | SSP-99 Screen Helmet (Blue)
+SEVAHelmDuty                             | SSP-99 Screen Helmet (Duty)
+SEVAHelmEcologist                        | SSP-99 Screen Helmet (Ecologists)
+SEVAHelmFreedom                          | SSP-99 Screen Helmet (Freedom)
+ssp9greenhelm                            | SSP-99 Screen Helmet (Green)
+SEVAHelmMercs                            | SSP-99 Screen Helmet (Mercenaries)
+SEVAHelmMonolith                         | SSP-99 Screen Helmet (Monolith)
+SEVAHelmMonolithGreen                    | SSP-99 Screen Helmet (Monolith)
+ssp9orangehelm                           | SSP-99 Screen Helmet (Orange)
+ssp9redhelm                              | SSP-99 Screen Helmet (Red)
+SEVAHelmRenegades                        | SSP-99 Screen Helmet (Renegades)
+SEVAHelmUNISG                            | SSP-99 Screen Helmet (UNISG)
+ssp9whitehelm                            | SSP-99 Screen Helmet (White)
+ssp9yellowhelm                           | SSP-99 Screen Helmet (Yellow)
+SSP99MBackpackBlue                       | SSP-99M Breathing System
+SSP99MBackpackGreen                      | SSP-99M Breathing System
+SSP99MBackpackOrange                     | SSP-99M Breathing System
+SSP99MBackpackRed                        | SSP-99M Breathing System
+SSP99MBackpackWhite                      | SSP-99M Breathing System
+SSP99MBackpackYellow                     | SSP-99M Breathing System
+ssp99mjacketblue                         | SSP-99M Jacket (Blue)
+ssp99mjacketgreen                        | SSP-99M Jacket (Green)
+ssp99mjacketorange                       | SSP-99M Jacket (Orange)
+ssp99mjacketred                          | SSP-99M Jacket (Red)
+ssp99mjacketwhite                        | SSP-99M Jacket (White)
+ssp99mjacketyellow                       | SSP-99M Jacket (Yellow)
+ssp99mpantsblue                          | SSP-99M Trousers (Blue)
+ssp99mpantsgreen                         | SSP-99M Trousers (Green)
+ssp99mpantsorange                        | SSP-99M Trousers (Orange)
+ssp99mpantsred                           | SSP-99M Trousers (Red)
+ssp99mpantswhite                         | SSP-99M Trousers (White)
+SunriseJacket                            | Sunrise Jacket
+SunriseJacketDOWN                        | Sunrise Jacket
+
+========================================
+XML files in folder with no item entry (11):
+----------------------------------------
+  SEVAHelmDutyNoFilter
+  SEVAHelmEcologistNoFilter
+  SEVAHelmFreedomNoFilter
+  SEVAHelmMercsNoFilter
+  SEVAHelmMonolithNoFilter
+  SEVAHelmNoFilter
+  SmallerAlicePack
+  SmallerAlicePackDark
+  Smersh
+  Sphere08HelmetMercsNoFilter
+  SphereM12HelmetMercsNoFilter
