@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\ReinforcedOxygenTank</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\ReinforcedOxygenTank</m_FemaleModel>
+	<m_GUID>a2264938-43d1-46ef-ab80-64a13c516110</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>Clothes\Loner\ReinforcedOxygenTank</textureChoices>
+</clothingItem>

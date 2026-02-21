@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>484bc0ff-fa99-4e0a-9045-eb729ab27c39</m_GUID>
+    <m_MaleModel>Skinned\Clothes\SEVA1Helm</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\SEVA1Helm</m_FemaleModel>
+    <textureChoices>Clothes\SEVA1\SEVA1Helm</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>nobeard</m_HatCategory>
+	<m_HatCategory>nohair</m_HatCategory>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+</clothingItem>

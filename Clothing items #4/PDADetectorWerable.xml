@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>aa8dd557-c690-418a-bfa1-b94faa7294fa</m_GUID>
+    <m_MaleModel>Skinned\Clothes\PDADetectorWerable</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\PDADetectorWerable</m_FemaleModel>
+    <textureChoices>Clothes\PDA\pda</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+</clothingItem>

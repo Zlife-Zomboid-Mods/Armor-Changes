@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>cd778ade-e07e-45d8-8692-0aa80d24b5de</m_GUID>
+    <m_MaleModel>Skinned\Clothes\PSZBulatPants</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\PSZBulatPants</m_FemaleModel>
+    <textureChoices>Clothes\PSZ12Bulat\PSZ12BulatPants</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_Masks>7</m_Masks>
+	<m_Masks>9</m_Masks>
+	<m_Masks>2</m_Masks>
+</clothingItem>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>00104a42-6762-411f-b386-e0cb5f443073</m_GUID>
+    <m_MaleModel>Skinned\Clothes\R22SovietChestRig</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\R22SovietChestRig</m_FemaleModel>
+    <textureChoices>Clothes\ChestRigs\R22SovietChestRig</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+</clothingItem>

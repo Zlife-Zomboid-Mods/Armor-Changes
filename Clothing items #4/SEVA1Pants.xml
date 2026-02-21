@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>eef41975-e264-42b1-b531-cdd4718898d5</m_GUID>
+    <m_MaleModel>Skinned\Clothes\SEVA1Pants</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\SEVA1Pants</m_FemaleModel>
+    <textureChoices>Clothes\SEVA1\SEVA1Pants</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_Masks>2</m_Masks>
+</clothingItem>
