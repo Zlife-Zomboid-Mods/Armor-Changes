@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>e0cf9ff1-2e8b-477e-a8bf-06ec0c5b85ad</m_GUID>
+    <m_MaleModel>Skinned\Clothes\OZKJacketUP</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\OZKJacketUP</m_FemaleModel>
+    <textureChoices>Clothes\OZK\OZKJacket</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>Group03</m_HatCategory>
+	<m_HatCategory>nohair</m_HatCategory>
+</clothingItem>

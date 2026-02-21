@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>d46f0498-e3a6-4fb5-940d-63d42fc52c55</m_GUID>
+    <m_MaleModel>Skinned\Clothes\GorkaJacket</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\GorkaJacket</m_FemaleModel>
+    <textureChoices>Clothes\Gorka\GorkaJacketLoner</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_HatCategory>Group03</m_HatCategory>
+	<m_HatCategory>nohair</m_HatCategory>
+</clothingItem>

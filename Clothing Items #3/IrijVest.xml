@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>e309a3d0-7803-48b8-8e6f-15c8f2265ae0</m_GUID>
+    <m_MaleModel>Skinned\Clothes\LCBulletVest</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\LCBulletVest</m_FemaleModel>
+    <textureChoices>Clothes\Sin\IrijVest</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+</clothingItem>

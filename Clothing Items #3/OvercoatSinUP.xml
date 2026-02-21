@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\OvercoatUP</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\OvercoatUP</m_FemaleModel>
+	<m_GUID>44744282-d19e-47fd-86b9-60ea2d6e331d</m_GUID>
+	<m_Static>false</m_Static>
+	<m_HatCategory>Group03</m_HatCategory>
+	<m_HatCategory>nohair</m_HatCategory>
+	<textureChoices>clothes\Sin\OvercoatSin</textureChoices>
+</clothingItem>

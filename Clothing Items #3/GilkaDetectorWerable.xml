@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>26f79d56-b51a-4f1e-a3d2-fb53f2fd9d02</m_GUID>
+    <m_MaleModel>Skinned\Clothes\GilkaDetectorWerable</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\GilkaDetectorWerable</m_FemaleModel>
+    <textureChoices>Clothes\Detectors\GilkaDetector</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+</clothingItem>

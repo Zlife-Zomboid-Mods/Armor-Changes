@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>efcafd92-e7e7-4f0d-b332-7d274d67da0a</m_GUID>
+    <m_MaleModel>Skinned\Clothes\OZKJacketDOWN</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\OZKJacketDOWN</m_FemaleModel>
+    <textureChoices>Clothes\OZK\OZKJacket</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+</clothingItem>

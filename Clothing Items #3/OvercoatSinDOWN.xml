@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\OvercoatDOWN</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\OvercoatDOWN</m_FemaleModel>
+	<m_GUID>a5b3866a-233d-4a92-9753-120ad995acab</m_GUID>
+	<m_Static>false</m_Static>
+	<textureChoices>clothes\Sin\OvercoatSin</textureChoices>
+</clothingItem>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>734e630a-4a3c-43a9-abe2-452211d801a1</m_GUID>
+    <m_MaleModel>Skinned\Clothes\LeadContainer</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\LeadContainer</m_FemaleModel>
+    <textureChoices>Clothes\ArtefactContainers\LeadContainer</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+</clothingItem>
