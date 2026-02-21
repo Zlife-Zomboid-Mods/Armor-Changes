@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\BackpackRadSensor</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\BackpackRadSensor</m_FemaleModel>
+	<m_GUID>3a19927f-5c17-41ec-8af7-1f19e7315cbc</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>clothes\backpacks\BackpackRadSensorGreen</textureChoices>
+</clothingItem>

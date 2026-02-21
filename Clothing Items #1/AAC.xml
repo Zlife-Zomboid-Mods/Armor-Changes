@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>91b4634c-c183-4def-87e4-96c0287dd8b4</m_GUID>
+    <m_MaleModel>Skinned\Clothes\AAC</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\AAC</m_FemaleModel>
+    <textureChoices>Clothes\ArtefactContainers\AAC</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+</clothingItem>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\EcoCoat</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\EcoCoat</m_FemaleModel>
+	<m_GUID>e5a2cab2-4a3a-431e-abc6-8c0aa5435e24</m_GUID>
+	<m_Static>false</m_Static>
+	<textureChoices>clothes\Ecologists\EcoCoat2</textureChoices>
+</clothingItem>

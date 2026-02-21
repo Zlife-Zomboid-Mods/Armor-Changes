@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_GUID>9f8b79c3-a954-4551-9780-7cb9fbfbd46c</m_GUID>
+	<m_MaleModel>Skinned\Clothes\Beret</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\Beret</m_FemaleModel>
+    <textureChoices>Clothes\Hat\BeretEco2</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_MasksFolder>media/textures/Clothes/Hat/Masks</m_MasksFolder>
+</clothingItem>

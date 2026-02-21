@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+	<m_MaleModel>skinned\clothes\exobackpack</m_MaleModel>
+	<m_FemaleModel>skinned\clothes\exobackpack</m_FemaleModel>
+	<m_GUID>f45a11bc-93a7-4ca7-acb2-a01fe9c3a885</m_GUID>
+	<m_Static>false</m_Static>
+	<m_AttachBone></m_AttachBone>
+	<textureChoices>Clothes\Beard\BeardExoSuitBackpack</textureChoices>
+</clothingItem>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>b87861b7-7784-4339-9fff-d6741aa4c58c</m_GUID>
+    <m_MaleModel>Skinned\Clothes\CorundumVest</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\CorundumVest</m_FemaleModel>
+    <textureChoices>Clothes\Monolith\CorundumVest</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+</clothingItem>
