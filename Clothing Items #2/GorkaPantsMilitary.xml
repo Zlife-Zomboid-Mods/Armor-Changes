@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clothingItem>
+    <m_GUID>b1d7df55-1527-42eb-8510-da33e0133be3</m_GUID>
+    <m_MaleModel>Skinned\Clothes\GorkaPants</m_MaleModel>
+    <m_FemaleModel>Skinned\Clothes\GorkaPants</m_FemaleModel>
+    <textureChoices>Clothes\Gorka\GorkaPantsMilitary</textureChoices>
+	<m_Static>false</m_Static>
+	<m_AllowRandomHue>false</m_AllowRandomHue>
+	<m_AllowRandomTint>false</m_AllowRandomTint>
+	<m_Masks>2</m_Masks>
+	<m_Masks>9</m_Masks>
+	<m_Masks>7</m_Masks>
+</clothingItem>
